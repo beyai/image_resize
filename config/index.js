@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-	// 工作进程数据
+	// 工作进程
 	worker_num : 5,
 	// 图片文件存储目录
 	image_save_path : "/data/images/",
